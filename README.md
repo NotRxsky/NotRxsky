@@ -12,4 +12,4 @@
 
 **⚖️ Lead Developer & Founder @FirmRP**
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-notrxsky.vercel.app/api?username=NotRxsky&show_icons=true&hide_border=true" />
+  <img align="left" alt="NotRxsky's GitHub Stats" src="https://github-readme-stats-notrxsky.vercel.app/api?username=NotRxsky&show_icons=true&hide_border=true" />
