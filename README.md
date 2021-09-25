@@ -10,4 +10,4 @@
 
 **----------------------------------------------------------**
 
-**Lead Developer & Founder @FirmRP**
+**⚖️ Lead Developer & Founder @FirmRP**
