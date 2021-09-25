@@ -9,3 +9,5 @@
 **- 📫 How to reach me: NotRxsky#3591**
 
 **----------------------------------------------------------**
+
+**Lead Developer & Founder @FirmRP**
