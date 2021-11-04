@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Nothing Atm**
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/spkpRU44f3](https://discord.gg/spkpRU44f3)
+- 👨‍💻 All of my projects are available at [https://discord.gg/gKVbB7HnCu](https://discord.gg/spkpRU44f3)
 
 - 💬 Ask me about **Development And Needed Help**
 
