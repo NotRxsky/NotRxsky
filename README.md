@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Development And Needed Help**
 
-- 📫 How to reach me **Discord - NotRxsky#3591**
+- 📫 How to reach me **Discord - NotRxsky#0174**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
